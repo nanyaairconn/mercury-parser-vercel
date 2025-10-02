@@ -1,0 +1,9 @@
+{
+  "name": "mercury-parser-vercel",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
